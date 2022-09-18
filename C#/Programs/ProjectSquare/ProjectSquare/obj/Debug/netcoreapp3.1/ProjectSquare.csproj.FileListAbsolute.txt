@@ -1,0 +1,16 @@
+C:\Users\strat\OneDrive\Рабочий стол\ProjectSquare\ProjectSquare\bin\Debug\netcoreapp3.1\ProjectSquare.exe
+C:\Users\strat\OneDrive\Рабочий стол\ProjectSquare\ProjectSquare\bin\Debug\netcoreapp3.1\ProjectSquare.deps.json
+C:\Users\strat\OneDrive\Рабочий стол\ProjectSquare\ProjectSquare\bin\Debug\netcoreapp3.1\ProjectSquare.runtimeconfig.json
+C:\Users\strat\OneDrive\Рабочий стол\ProjectSquare\ProjectSquare\bin\Debug\netcoreapp3.1\ProjectSquare.runtimeconfig.dev.json
+C:\Users\strat\OneDrive\Рабочий стол\ProjectSquare\ProjectSquare\bin\Debug\netcoreapp3.1\ProjectSquare.dll
+C:\Users\strat\OneDrive\Рабочий стол\ProjectSquare\ProjectSquare\bin\Debug\netcoreapp3.1\ProjectSquare.pdb
+C:\Users\strat\OneDrive\Рабочий стол\ProjectSquare\ProjectSquare\bin\Debug\netcoreapp3.1\Square.dll
+C:\Users\strat\OneDrive\Рабочий стол\ProjectSquare\ProjectSquare\bin\Debug\netcoreapp3.1\Square.pdb
+C:\Users\strat\OneDrive\Рабочий стол\ProjectSquare\ProjectSquare\obj\Debug\netcoreapp3.1\ProjectSquare.csproj.AssemblyReference.cache
+C:\Users\strat\OneDrive\Рабочий стол\ProjectSquare\ProjectSquare\obj\Debug\netcoreapp3.1\ProjectSquare.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\strat\OneDrive\Рабочий стол\ProjectSquare\ProjectSquare\obj\Debug\netcoreapp3.1\ProjectSquare.AssemblyInfoInputs.cache
+C:\Users\strat\OneDrive\Рабочий стол\ProjectSquare\ProjectSquare\obj\Debug\netcoreapp3.1\ProjectSquare.AssemblyInfo.cs
+C:\Users\strat\OneDrive\Рабочий стол\ProjectSquare\ProjectSquare\obj\Debug\netcoreapp3.1\ProjectSquare.csproj.CoreCompileInputs.cache
+C:\Users\strat\OneDrive\Рабочий стол\ProjectSquare\ProjectSquare\obj\Debug\netcoreapp3.1\ProjectSquare.dll
+C:\Users\strat\OneDrive\Рабочий стол\ProjectSquare\ProjectSquare\obj\Debug\netcoreapp3.1\ProjectSquare.pdb
+C:\Users\strat\OneDrive\Рабочий стол\ProjectSquare\ProjectSquare\obj\Debug\netcoreapp3.1\ProjectSquare.genruntimeconfig.cache

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "ProjectSquare/1.0.0": {
+        "dependencies": {
+          "Square": "1.0.0"
+        },
+        "runtime": {
+          "ProjectSquare.dll": {}
+        }
+      },
+      "Square/1.0.0": {
+        "runtime": {
+          "Square.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ProjectSquare/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Square/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
