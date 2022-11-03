@@ -1,0 +1,14 @@
+C:\Users\strat\OneDrive\Рабочий стол\Asteroids\Asteroids\bin\Debug\Asteroids.exe.config
+C:\Users\strat\OneDrive\Рабочий стол\Asteroids\Asteroids\bin\Debug\Asteroids.exe
+C:\Users\strat\OneDrive\Рабочий стол\Asteroids\Asteroids\bin\Debug\Asteroids.pdb
+C:\Users\strat\OneDrive\Рабочий стол\Asteroids\Asteroids\obj\Debug\Asteroids.csproj.AssemblyReference.cache
+C:\Users\strat\OneDrive\Рабочий стол\Asteroids\Asteroids\obj\Debug\Asteroids.csproj.CoreCompileInputs.cache
+C:\Users\strat\OneDrive\Рабочий стол\Asteroids\Asteroids\obj\Debug\Asteroids.exe
+C:\Users\strat\OneDrive\Рабочий стол\Asteroids\Asteroids\obj\Debug\Asteroids.pdb
+C:\Users\strat\OneDrive\Рабочий стол\CSharp\CShapPart2\Asteroids\Asteroids\bin\Debug\Asteroids.exe.config
+C:\Users\strat\OneDrive\Рабочий стол\CSharp\CShapPart2\Asteroids\Asteroids\bin\Debug\Asteroids.exe
+C:\Users\strat\OneDrive\Рабочий стол\CSharp\CShapPart2\Asteroids\Asteroids\bin\Debug\Asteroids.pdb
+C:\Users\strat\OneDrive\Рабочий стол\CSharp\CShapPart2\Asteroids\Asteroids\obj\Debug\Asteroids.csproj.AssemblyReference.cache
+C:\Users\strat\OneDrive\Рабочий стол\CSharp\CShapPart2\Asteroids\Asteroids\obj\Debug\Asteroids.csproj.CoreCompileInputs.cache
+C:\Users\strat\OneDrive\Рабочий стол\CSharp\CShapPart2\Asteroids\Asteroids\obj\Debug\Asteroids.exe
+C:\Users\strat\OneDrive\Рабочий стол\CSharp\CShapPart2\Asteroids\Asteroids\obj\Debug\Asteroids.pdb
