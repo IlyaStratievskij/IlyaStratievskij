@@ -1,2 +1,4 @@
 Можно скачать в репозитории MyProject, ветка ChatServer
+Имеется две клиентские версии, ClientCPP_Csharp первая версия, для обычного общения. ClientCsharpSmile улучшенная версия, 
+с возможностью форматирования графического интерфейса для текста, а также наличии эмоций в виде смайликов.
 https://github.com/IlyaStratievskij/MyProject/tree/ChatServer
