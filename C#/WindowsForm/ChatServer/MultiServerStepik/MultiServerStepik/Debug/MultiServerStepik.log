@@ -1,0 +1,9 @@
+﻿  MultiServerStepik.cpp
+C:\Users\strat\OneDrive\Рабочий стол\CPP\MultiServerStepik\MultiServerStepik\MultiServerStepik.cpp(92,16): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\strat\OneDrive\Рабочий стол\CPP\MultiServerStepik\MultiServerStepik\MultiServerStepik.cpp(102,23): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\strat\OneDrive\Рабочий стол\CPP\MultiServerStepik\MultiServerStepik\MultiServerStepik.cpp(123,24): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\strat\OneDrive\Рабочий стол\CPP\MultiServerStepik\MultiServerStepik\MultiServerStepik.cpp(130,18): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\strat\OneDrive\Рабочий стол\CPP\MultiServerStepik\MultiServerStepik\MultiServerStepik.cpp(143,24): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\strat\OneDrive\Рабочий стол\CPP\MultiServerStepik\MultiServerStepik\MultiServerStepik.cpp(157,24): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\strat\OneDrive\Рабочий стол\CPP\MultiServerStepik\MultiServerStepik\MultiServerStepik.cpp(163,24): warning C4018: <: несоответствие типов со знаком и без знака
+  MultiServerStepik.vcxproj -> C:\Users\strat\OneDrive\Рабочий стол\CPP\MultiServerStepik\Debug\MultiServerStepik.exe
