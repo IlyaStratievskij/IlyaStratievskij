@@ -1,0 +1,6 @@
+C:\Users\strat\OneDrive\Рабочий стол\Calculator\Calculator\Debug\Calculator.vcxproj.AssemblyReference.cache
+C:\Users\strat\OneDrive\Рабочий стол\Calculator\Calculator\Debug\Calculator.MyForm.resources
+C:\Users\strat\OneDrive\Рабочий стол\Calculator\Calculator\Debug\Calculator.vcxproj.GenerateResource.cache
+C:\Users\strat\OneDrive\Рабочий стол\CPP\Calculator\Calculator\Debug\Calculator.vcxproj.AssemblyReference.cache
+C:\Users\strat\OneDrive\Рабочий стол\CPP\Calculator\Calculator\Debug\Calculator.MyForm.resources
+C:\Users\strat\OneDrive\Рабочий стол\CPP\Calculator\Calculator\Debug\Calculator.vcxproj.GenerateResource.cache

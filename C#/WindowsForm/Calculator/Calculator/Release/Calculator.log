@@ -1,0 +1,9 @@
+﻿  pch.cpp
+  AssemblyInfo.cpp
+  Calculator.cpp
+  MyForm.cpp
+  Создание кода...
+C:\Users\strat\OneDrive\Рабочий стол\CPP\Calculator\Calculator\MyForm.h(204): warning C4715: Calculator::MyForm::big_arr: значение возвращается не при всех путях выполнения
+C:\Users\strat\OneDrive\Рабочий стол\CPP\Calculator\Calculator\MyForm.h(204): warning C4715: Calculator::MyForm::big_arr: значение возвращается не при всех путях выполнения
+  AssemblyInfo.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  Calculator.vcxproj -> C:\Users\strat\OneDrive\Рабочий стол\CPP\Calculator\Release\Calculator.exe
